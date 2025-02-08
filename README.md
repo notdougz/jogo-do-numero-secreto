@@ -34,4 +34,4 @@ Se você quiser rodar o jogo na sua máquina local, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/notdougz/jogo-do-numero-secreto
